@@ -1,0 +1,373 @@
+﻿category,name,url
+技术因子,成交量价背离度,https://factors.directory/zh/factors/tech/price-volume-divergence
+技术因子,相对强弱指标 (Relative Strength Index),https://factors.directory/zh/factors/tech/rsi
+技术因子,20日区间收益率动量/反转因子,https://factors.directory/zh/factors/tech/momentum-or-reversal
+技术因子,归母净利润同比增长率,https://factors.directory/zh/factors/tech/net-profit-growth-rate
+技术因子,日均换手率,https://factors.directory/zh/factors/tech/turnover-rate
+技术因子,成交量能量潮指标 (On-Balance Volume),https://factors.directory/zh/factors/tech/energy-metrics
+技术因子,主力成交同步性因子,https://factors.directory/zh/factors/tech/main-force-trading-strength
+技术因子,新闻共现注意力溢出因子,https://factors.directory/zh/factors/tech/news-co-occurrence
+技术因子,多周期标准化移动平均动量因子,https://factors.directory/zh/factors/tech/momentum-factor
+技术因子,累计振荡指标,https://factors.directory/zh/factors/tech/accumulated-oscillation-index
+技术因子,价格成交量趋势指标,https://factors.directory/zh/factors/tech/price-volume-trend
+技术因子,一致性下跌成交量比率因子,https://factors.directory/zh/factors/tech/consistent-sell-trade
+技术因子,开盘时段主动买入强度,https://factors.directory/zh/factors/tech/opening-buy-intention
+技术因子,相对组合对数价差偏离度,https://factors.directory/zh/factors/tech/price-spread-deviation
+技术因子,外资券商关联网络牵引强度因子,https://factors.directory/zh/factors/tech/foreign-broker-network-factor
+技术因子,"简易波动指标 (Easy of Movement Value, EMV)",https://factors.directory/zh/factors/tech/easy-movement-value
+技术因子,市场反应滞后因子,https://factors.directory/zh/factors/tech/price-delay
+技术因子,日内收益偏度,https://factors.directory/zh/factors/tech/high-frequency-skewness
+技术因子,蔡金资金流向指标,https://factors.directory/zh/factors/tech/caijin-currency-flow-indicator
+技术因子,集合竞价成交量占比复合因子,https://factors.directory/zh/factors/tech/volume-ratio
+技术因子,"多空意愿指标 (Bull-Bear Index, BBI)",https://factors.directory/zh/factors/tech/long-void-index
+技术因子,商品通道指数,https://factors.directory/zh/factors/tech/commodity-channel-index
+技术因子,动态趋向指标,https://factors.directory/zh/factors/tech/dynamic-buy-sell-indicator
+技术因子,心理线,https://factors.directory/zh/factors/tech/psy-line
+技术因子,科技关联加权动量因子,https://factors.directory/zh/factors/tech/technology-momentum
+技术因子,成交量相对强度指标,https://factors.directory/zh/factors/tech/volume-ratio-indicator
+技术因子,滚动收益率偏度因子,https://factors.directory/zh/factors/tech/skewness
+技术因子,主动成交额净额比率,https://factors.directory/zh/factors/tech/active-trading-factor
+技术因子,布林买卖意愿比率,https://factors.directory/zh/factors/tech/br-indicator
+技术因子,蔡金资金流量震荡指标,https://factors.directory/zh/factors/tech/jiaqing-indicator
+技术因子,估值偏离度(误差修正模型),https://factors.directory/zh/factors/tech/valuation-deviation
+技术因子,高频上行已实现波动占比,https://factors.directory/zh/factors/tech/high-frequency-up-volatility-ratio
+技术因子,高频价量相关性趋势因子,https://factors.directory/zh/factors/tech/price-volume-correlation-trend
+技术因子,"日内强度指标 (Intraday Momentum Index, IMI)",https://factors.directory/zh/factors/tech/intraday-momentum
+技术因子,资金流量指标,https://factors.directory/zh/factors/tech/money-flow-index
+技术因子,Dimson调整贝塔,https://factors.directory/zh/factors/tech/dimson-beta
+技术因子,二阶动量加速度因子,https://factors.directory/zh/factors/tech/acceleration-momentum
+技术因子,最大日收益率（Max Daily Return）,https://factors.directory/zh/factors/tech/max-yield
+技术因子,日内信息不对称强度因子,https://factors.directory/zh/factors/tech/apm-factor
+技术因子,成交量加权残差反转因子,https://factors.directory/zh/factors/tech/residual-reversal-factor
+技术因子,成交量相对强度指标,https://factors.directory/zh/factors/tech/volume-relative-strength
+技术因子,收益动量一致性因子,https://factors.directory/zh/factors/tech/information-dispersion
+技术因子,三重指数移动平均 (TEMA),https://factors.directory/zh/factors/tech/triple-exponential-moving-average
+技术因子,下尾风险贝塔,https://factors.directory/zh/factors/tech/tail-beta
+技术因子,价格偏离移动均线百分比 (Price Deviation from Moving Average Percentage),https://factors.directory/zh/factors/tech/bias
+技术因子,实体K线一致性买入强度因子,https://factors.directory/zh/factors/tech/consistent-buy-transaction
+技术因子,佳庆波动率离散指标,https://factors.directory/zh/factors/tech/jiaqing-discrete-index
+技术因子,非对称价格冲击偏度,https://factors.directory/zh/factors/tech/price-impact-bias
+技术因子,价格变动速率因子,https://factors.directory/zh/factors/tech/rate-of-change
+技术因子,开盘时段大单净买入强度标准化均值,https://factors.directory/zh/factors/tech/large-order-net-buying-strength
+技术因子,相对强弱人气指标,https://factors.directory/zh/factors/tech/ar-indicator
+技术因子,"垂直水平滤波指标 (Vertical Horizontal Filter, VHF)",https://factors.directory/zh/factors/tech/vertical-horizontal-filter
+技术因子,克林格成交量震荡指标,https://factors.directory/zh/factors/tech/klinger-volume-oscillator
+技术因子,移动平均汇聚背离指标,https://factors.directory/zh/factors/tech/moving-average-convergence-divergence
+技术因子,日内换手率分布离散度,https://factors.directory/zh/factors/tech/turnover-uniformity
+技术因子,异同离差乖离率振荡器,https://factors.directory/zh/factors/tech/deviation-rate
+技术因子,钱德动量振荡器,https://factors.directory/zh/factors/tech/chande-momentum-oscillator
+技术因子,基金持仓网络牵引强度因子,https://factors.directory/zh/factors/tech/fund-network-factor
+技术因子,成交量异同移动平均线 (VMACD),https://factors.directory/zh/factors/tech/volume-moving-average-convergence-divergence
+技术因子,实体K线一致性交易强度因子,https://factors.directory/zh/factors/tech/consistent-trading
+技术因子,"资金流量累积指标 (Accumulation/Distribution Line, A/D)",https://factors.directory/zh/factors/tech/accumulative-distribution-line
+技术因子,残差偏度因子,https://factors.directory/zh/factors/tech/idiosyncratic-skewness
+技术因子,蔡金波动率指标 (Chaikin Volatility Index),https://factors.directory/zh/factors/tech/cvi
+技术因子,日内开盘净委买增额成交额比率,https://factors.directory/zh/factors/tech/net-bid-increase-ratio
+技术因子,多时域移动平均动量因子,https://factors.directory/zh/factors/tech/trend-factor
+技术因子,时间加权平均相对价格位置,https://factors.directory/zh/factors/tech/time-weighted-average-stock-relative-price-position
+技术因子,相对强弱指标 (RSI),https://factors.directory/zh/factors/tech/relative-strength-index
+技术因子,梅斯指数,https://factors.directory/zh/factors/tech/mass-index
+技术因子,市场收益率协偏度因子,https://factors.directory/zh/factors/tech/covariance-skewness1
+技术因子,随机摆动指标,https://factors.directory/zh/factors/tech/stochastic-indicator
+技术因子,阿隆指标,https://factors.directory/zh/factors/tech/aroon-index
+技术因子,残差资金流强度,https://factors.directory/zh/factors/tech/residual-fund-flow-intensity
+技术因子,机构活跃度因子,https://factors.directory/zh/factors/tech/smart-money-factor
+技术因子,区域强度指数,https://factors.directory/zh/factors/tech/region-index
+技术因子,下行风险贝塔,https://factors.directory/zh/factors/tech/downside-beta
+技术因子,CAPM残差动量因子,https://factors.directory/zh/factors/tech/residual-momentum-capm
+技术因子,成交额分位数反转强度因子,https://factors.directory/zh/factors/tech/ideal-reversal-factor
+技术因子,开盘后主动买入强度标准化均值,https://factors.directory/zh/factors/tech/net-buyer-intensity-after-opening
+技术因子,成交量动量摆动指标,https://factors.directory/zh/factors/tech/kvo-indicator
+技术因子,Fama-French三因子模型残差动量,https://factors.directory/zh/factors/tech/residual-momentum-ff3
+技术因子,分析师目标价调整动量因子,https://factors.directory/zh/factors/tech/adjust-expected-yield
+技术因子,随机动量指标 (SMI),https://factors.directory/zh/factors/tech/stochastic-momentum-indicator
+技术因子,"平均真实波幅 (Average True Range, ATR)",https://factors.directory/zh/factors/tech/average-true-volatility
+技术因子,科波克曲线,https://factors.directory/zh/factors/tech/coppock-indicator
+技术因子,相对波动性指标,https://factors.directory/zh/factors/tech/relative-volatility-index
+技术因子,振幅切割动量累积因子,https://factors.directory/zh/factors/tech/amplitude-cutting-momentum
+技术因子,方向性动量离散指标 (Directional Momentum Dispersion Index),https://factors.directory/zh/factors/tech/directional-standard-deviation
+技术因子,双向价格差分自相关性标准化因子,https://factors.directory/zh/factors/tech/price-auto-correlation
+技术因子,大单成交量价动量,https://factors.directory/zh/factors/tech/large-order-momentum
+技术因子,成交额变异系数,https://factors.directory/zh/factors/volatility/volatility-coefficient-of-turnover
+技术因子,主力成交额-价格相关性因子,https://factors.directory/zh/factors/emotion/main-force-trading-sentiment
+情绪因子,小单错位自相关性,https://factors.directory/zh/factors/emotion/small-order-misalignment
+情绪因子,分析师盈利预测修订动量,https://factors.directory/zh/factors/emotion/analyst-profit-forecast-revision-probability
+情绪因子,流通股东户数因子,https://factors.directory/zh/factors/emotion/shareholder-number
+情绪因子,月度收益季节性动量因子,https://factors.directory/zh/factors/emotion/seasonal-returns
+情绪因子,历史新闻提及量因子,https://factors.directory/zh/factors/emotion/news-volume
+情绪因子,十大股东持股分散度标准差,https://factors.directory/zh/factors/emotion/top-10-shareholder-dispersion
+情绪因子,财务相似度加权收益动量,https://factors.directory/zh/factors/emotion/financial-momentum
+情绪因子,集合竞价成交量占比因子,https://factors.directory/zh/factors/emotion/emotion-volume-ratio
+情绪因子,卖方冲击成本因子,https://factors.directory/zh/factors/emotion/sell-order-illiquidity
+情绪因子,Amihud非流动性冲击因子,https://factors.directory/zh/factors/emotion/liquidity-shock
+情绪因子,负收益成交额加权非流动性因子,https://factors.directory/zh/factors/emotion/negative-return-illiquidity
+情绪因子,分析师覆盖度,https://factors.directory/zh/factors/emotion/analyst-coverage
+情绪因子,超大单-小单资金流同步秩相关性,https://factors.directory/zh/factors/emotion/large-small-order-correlation
+情绪因子,行业共现变动因子,https://factors.directory/zh/factors/emotion/news-stock-industry-co-occurrence
+情绪因子,关注度校正预期收益率,https://factors.directory/zh/factors/emotion/focus-correction-expected-yield
+情绪因子,主动买入冲击因子,https://factors.directory/zh/factors/emotion/buy-order-illiquidity
+情绪因子,开盘时段主动买入意愿强度,https://factors.directory/zh/factors/emotion/opening-intention-ratio
+情绪因子,单笔成交金额分位偏离度,https://factors.directory/zh/factors/emotion/single-transaction-amount-quantile
+情绪因子,开盘时段大单净额占比,https://factors.directory/zh/factors/emotion/large-order-net-buy-ratio
+情绪因子,分析师预期收益率加权平均因子,https://factors.directory/zh/factors/emotion/weighted-target-return
+情绪因子,日均负向成交额占比相对强度,https://factors.directory/zh/factors/emotion/average-single-transaction-outflow-ratio
+情绪因子,陆股通净流入强度比率,https://factors.directory/zh/factors/emotion/net-inflow-strength
+情绪因子,标准化季度营收意外,https://factors.directory/zh/factors/emotion/standardized-unexpected-revenue
+情绪因子,盈余公告日次日开盘跳空幅度,https://factors.directory/zh/factors/emotion/earnings-announcement-stock-jump
+情绪因子,一致预期收益率 (Consensus Target Price Return),https://factors.directory/zh/factors/emotion/consistent-expected-return-rate
+情绪因子,分析师一致预期偏差度,https://factors.directory/zh/factors/emotion/analyst-factor
+情绪因子,月度相对换手率溢出,https://factors.directory/zh/factors/emotion/monthly-abnormal-turnover
+情绪因子,分析师预期EPS调整幅度,https://factors.directory/zh/factors/emotion/expected-eps-adjustment
+情绪因子,行业领头羊动量溢价因子,https://factors.directory/zh/factors/emotion/industry-momentum-factor
+情绪因子,投资者关注度占比因子,https://factors.directory/zh/factors/emotion/custom-stock-ratio
+情绪因子,中期反转因子 (Medium-Term Reversal Factor),https://factors.directory/zh/factors/emotion/long-term-reversal
+情绪因子,尾部非对称概率差,https://factors.directory/zh/factors/emotion/tail-probability-E
+情绪因子,个股相对点击量因子,https://factors.directory/zh/factors/emotion/stock-click-ratio
+情绪因子,尾部风险厚度因子,https://factors.directory/zh/factors/emotion/extreme-downside-risk
+情绪因子,隔夜新闻情感偏向因子,https://factors.directory/zh/factors/emotion/overnight-news-sentiment
+情绪因子,相对新闻点击量因子,https://factors.directory/zh/factors/emotion/proportion-of-news-clicks
+情绪因子,多层客户关系加权动量因子,https://factors.directory/zh/factors/emotion/customer-momentum-factor-based-on-multi-layered-customer-relationships
+情绪因子,尾盘成交量比率因子,https://factors.directory/zh/factors/emotion/tail-volume-ratio
+情绪因子,分析师共识覆盖加权动量,https://factors.directory/zh/factors/emotion/analyst-coverage-momentum
+情绪因子,分析师覆盖度残差因子,https://factors.directory/zh/factors/emotion/analyst-coverage-anomaly
+情绪因子,散户净买入比率,https://factors.directory/zh/factors/emotion/retail-imbalance
+情绪因子,分析师覆盖率,https://factors.directory/zh/factors/emotion/total-analyst-coverage
+情绪因子,负收益偏度系数,https://factors.directory/zh/factors/emotion/negative-skewness-coefficient
+情绪因子,北向资金交易行为量化因子,https://factors.directory/zh/factors/emotion/northbound-trading-factors
+情绪因子,情绪敏感度因子,https://factors.directory/zh/factors/emotion/sentiment-beta
+情绪因子,分析师预测加权盈余修正幅度,https://factors.directory/zh/factors/emotion/weighted-earnings-adjustment
+情绪因子,开盘时段主动净买额占比,https://factors.directory/zh/factors/emotion/net-buy-ratio
+情绪因子,盈余公告超额收益率,https://factors.directory/zh/factors/emotion/earnings-announcement-return
+情绪因子,机构投资者持股比例,https://factors.directory/zh/factors/emotion/institutional-holdings-ratio
+情绪因子,基于中心性加权的客户动量因子,https://factors.directory/zh/factors/emotion/customer-momentum
+情绪因子,北向资金持股比例因子,https://factors.directory/zh/factors/emotion/northbound-holdings
+情绪因子,净员工流失率,https://factors.directory/zh/factors/emotion/employee-turnover-rate
+情绪因子,系统偏度风险溢价因子,https://factors.directory/zh/factors/emotion/covariance-skewness2
+情绪因子,分析师目标价隐含收益率,https://factors.directory/zh/factors/emotion/target-price-implied-return
+情绪因子,系统性尾部风险暴露,https://factors.directory/zh/factors/emotion/tail-risk
+情绪因子,机构持仓家数,https://factors.directory/zh/factors/emotion/number-of-position-holding-agencies
+情绪因子,已实现资本盈余比率,https://factors.directory/zh/factors/emotion/capital-surplus
+情绪因子,年度股权发行调整市值增长率,https://factors.directory/zh/factors/emotion/comprehensive-equity-offering-annual
+情绪因子,散户同步性因子,https://factors.directory/zh/factors/emotion/herd-effect
+情绪因子,特异性收益波动因子,https://factors.directory/zh/factors/emotion/specificity
+情绪因子,分析师一致预期EPS修正比率,https://factors.directory/zh/factors/emotion/eps-revision-ratio
+情绪因子,异常尾部不对称度,https://factors.directory/zh/factors/emotion/abnormal-tail-probability
+情绪因子,新闻事件驱动动量因子,https://factors.directory/zh/factors/emotion/news-momentum
+基础面因子,经营活动现金流净额与净利润比率(TTM),https://factors.directory/zh/factors/basic-surface/profit-cash-ratio
+基础面因子,应付账款周转率(TTM),https://factors.directory/zh/factors/basic-surface/accounts-payable-turnover
+基础面因子,应付账款周转天数 (Days Sales Outstanding in Accounts Payable),https://factors.directory/zh/factors/basic-surface/accounts-payable-turnover-days
+基础面因子,固定资产周转率(TTM),https://factors.directory/zh/factors/basic-surface/fixed-asset-turnover-ratio
+基础面因子,普通股股东权益回报率(TTM),https://factors.directory/zh/factors/basic-surface/common-stock-return
+基础面因子,经营现金流利息保障倍数,https://factors.directory/zh/factors/basic-surface/cash-flow-coverage
+基础面因子,有效所得税率 (Effective Tax Rate),https://factors.directory/zh/factors/basic-surface/income-tax-expense-rate
+基础面因子,流动性经营资产变动率,https://factors.directory/zh/factors/basic-surface/current-asset-turnover
+基础面因子,近五年发明专利平均审查周期,https://factors.directory/zh/factors/basic-surface/patent-review-period
+基础面因子,权益乘数倒数 (Equity-to-Asset Ratio),https://factors.directory/zh/factors/basic-surface/equity-ratio
+基础面因子,净经营资产周转率 (Net Operating Asset Turnover Ratio),https://factors.directory/zh/factors/basic-surface/net-operating-asset-turnover-ratio
+基础面因子,"无形资产占比（Internal Intangible Asset Ratio, IIAR）",https://factors.directory/zh/factors/basic-surface/intangible-asset-intensity
+基础面因子,单季度总资产报酬率同比变动,https://factors.directory/zh/factors/basic-surface/single-quarter-asset-return-rate
+基础面因子,标准化意外盈余,https://factors.directory/zh/factors/basic-surface/standardized-unexpected-earnings
+基础面因子,经营性现金流净额/现金及现金等价物净增加额比率 (TTM),https://factors.directory/zh/factors/basic-surface/proportion-of-net-cash-flow-from-operations
+基础面因子,月度消费指数同比变动率,https://factors.directory/zh/factors/basic-surface/consumer-index-change
+基础面因子,固定资产比率,https://factors.directory/zh/factors/basic-surface/fixed-asset-ratio
+基础面因子,权益报酬环比动量-净资产同比增速差,https://factors.directory/zh/factors/basic-surface/roe-mom-growth-net-asset-yoy-growth
+基础面因子,每股盈余公积金,https://factors.directory/zh/factors/basic-surface/surplus-reserve-per-share
+基础面因子,扣除非经常损益的摊薄每股收益(TTM),https://factors.directory/zh/factors/basic-surface/eps
+基础面因子,运营成本利润率 (Operating Cost Profit Margin),https://factors.directory/zh/factors/basic-surface/cost-profit-margin
+基础面因子,总资产报酬率（TTM）,https://factors.directory/zh/factors/basic-surface/total-asset-operating-profit
+基础面因子,近五年新公开专利平均权利要求项数,https://factors.directory/zh/factors/basic-surface/claim-terms-mean
+基础面因子,"应收账款周转天数 (Days Sales Outstanding, DSO)",https://factors.directory/zh/factors/basic-surface/accounts-receivable-turnover-days
+基础面因子,销售收入/企业价值比率,https://factors.directory/zh/factors/basic-surface/sale-enterprise-value
+基础面因子,摊薄扣非净资产收益率（TTM）,https://factors.directory/zh/factors/basic-surface/roe-diluted-non-recurring
+基础面因子,企业自由现金流/经营性净资产市值比率 (去杠杆),https://factors.directory/zh/factors/basic-surface/basic-surface-cash-flow-to-market-value
+基础面因子,TTM基本每股收益同比增长率,https://factors.directory/zh/factors/basic-surface/earnings-growth-rate
+基础面因子,净运营资产收益率,https://factors.directory/zh/factors/basic-surface/net-operating-asset-profit-margin
+基础面因子,资本支出异常增长率,https://factors.directory/zh/factors/basic-surface/abnormal-capital-investment
+基础面因子,经营活动现金收入比率(TTM),https://factors.directory/zh/factors/basic-surface/sales-cash-ratio
+基础面因子,年度总负债对数增长率,https://factors.directory/zh/factors/basic-surface/comprehensive-debt-issuance
+基础面因子,权益周转率,https://factors.directory/zh/factors/basic-surface/equity-turnover-ratio
+基础面因子,流动资产占比,https://factors.directory/zh/factors/basic-surface/percentage-of-current-assets
+基础面因子,年度负债同比增速,https://factors.directory/zh/factors/basic-surface/debt-growth-rate
+基础面因子,每股营业收入(TTM),https://factors.directory/zh/factors/basic-surface/earnings-per-share1
+基础面因子,发行股本增长率,https://factors.directory/zh/factors/basic-surface/growth-rate-of-number-of-shares-issued
+基础面因子,残差市值偏离度,https://factors.directory/zh/factors/basic-surface/specific-market-capitalization
+基础面因子,流动比率,https://factors.directory/zh/factors/basic-surface/current-ratio
+基础面因子,流动比率（剔除存货）,https://factors.directory/zh/factors/basic-surface/quick-ratio
+基础面因子,每股留存收益,https://factors.directory/zh/factors/basic-surface/basic-surface-retained-earnings-per-share
+基础面因子,一致预期账面市值比,https://factors.directory/zh/factors/basic-surface/consistent-expectations-bp
+基础面因子,归母净利润加速增长动量因子,https://factors.directory/zh/factors/basic-surface/performance-trend
+基础面因子,存货周转率 (Inventory Turnover Ratio),https://factors.directory/zh/factors/basic-surface/inventory-turnover-ratio
+基础面因子,短期偿债压力比率,https://factors.directory/zh/factors/basic-surface/current-debt-ratio
+基础面因子,资产负债市值比率 (Asset-to-Market Cap Ratio),https://factors.directory/zh/factors/basic-surface/market-leverage
+基础面因子,总资产回报率 (ROA),https://factors.directory/zh/factors/basic-surface/total-asset-return-rate
+基础面因子,杠杆比率,https://factors.directory/zh/factors/basic-surface/asset-liability-ratio
+基础面因子,单季度经营活动净现金流同比增速,https://factors.directory/zh/factors/basic-surface/growth-rate-of-net-cash-flow
+基础面因子,股东权利指数,https://factors.directory/zh/factors/basic-surface/corporate-governance-index
+基础面因子,固定资产占用权益比率,https://factors.directory/zh/factors/basic-surface/capital-fixation-ratio
+基础面因子,每股净资产,https://factors.directory/zh/factors/basic-surface/net-asset-per-share
+基础面因子,单季度成本费用利润率同比增速,https://factors.directory/zh/factors/basic-surface/year-over-year-growth-in-single-quarter-cost-expense-margins
+基础面因子,Top3FreeFloatShareRatio,https://factors.directory/zh/factors/basic-surface/equity-concentration
+基础面因子,单季度营业利润率同比变动率,https://factors.directory/zh/factors/basic-surface/1q-operating-margin-yoy-growth
+基础面因子,五年滚动平均独立权利要求项数,https://factors.directory/zh/factors/basic-surface/independent-claim-count
+基础面因子,标准化盈利超预期因子,https://factors.directory/zh/factors/basic-surface/earning-surprise
+基础面因子,标准化存货变动率,https://factors.directory/zh/factors/basic-surface/inventory-changes
+基础面因子,经营效率变动因子 (Operating Efficiency Change Factor),https://factors.directory/zh/factors/basic-surface/operating-capacity-improvement
+基础面因子,融资成本营收占比,https://factors.directory/zh/factors/basic-surface/financial-expense-rate
+基础面因子,净经营资产变动率 (Net Operating Assets Change Rate),https://factors.directory/zh/factors/basic-surface/net-operating-assets-change
+基础面因子,应收账款周转率（年化）,https://factors.directory/zh/factors/basic-surface/accounts-receivable-turnover
+基础面因子,标准化调整营业利润（TTM）,https://factors.directory/zh/factors/basic-surface/standardized-adjusted-operating-profit
+基础面因子,经营利润率（TTM）,https://factors.directory/zh/factors/basic-surface/operating-profit-ratio
+基础面因子,应计盈余资产比率 (Accruals-to-Assets Ratio),https://factors.directory/zh/factors/basic-surface/basic-surface-total-accrued-surplus
+基础面因子,滚动总营业费用率,https://factors.directory/zh/factors/basic-surface/total-operating-expense-ratio
+基础面因子,每股自由现金流（FCF Per Share）,https://factors.directory/zh/factors/basic-surface/free-cash-flow-per-share
+基础面因子,经营现金流流动负债覆盖率,https://factors.directory/zh/factors/basic-surface/operating-cash-flow-ratio
+基础面因子,季度税费意外变动率,https://factors.directory/zh/factors/basic-surface/unexpected-tax-expense
+基础面因子,债务权益比率,https://factors.directory/zh/factors/basic-surface/basic-surface-debt-to-equity-ratio
+基础面因子,单季度营业总成本同比增速,https://factors.directory/zh/factors/basic-surface/single-quarter-revenue-cost-growth-rate
+基础面因子,内生无形资产累积因子,https://factors.directory/zh/factors/basic-surface/intangible-assets
+基础面因子,研发强度市值比,https://factors.directory/zh/factors/basic-surface/research-expenditure-to-market-cap
+基础面因子,分析师一致预期市盈率倒数,https://factors.directory/zh/factors/basic-surface/consistent-eps
+基础面因子,单季度销售成本率同比变动率,https://factors.directory/zh/factors/basic-surface/single-quarter-cost-growth-rate
+基础面因子,单季度营业利润同比增速,https://factors.directory/zh/factors/basic-surface/1q-operating-profit-yoy-growth-rate
+基础面因子,Annual_Share_Issuance_Growth_Rate,https://factors.directory/zh/factors/basic-surface/stock-issuance
+基础面因子,企业价值 (Enterprise Value),https://factors.directory/zh/factors/basic-surface/enterprise-value
+基础面因子,经营性资产回报率,https://factors.directory/zh/factors/basic-surface/return-on-operating-assets
+基础面因子,长期债务资本比率,https://factors.directory/zh/factors/basic-surface/long-term-debt-ratio
+基础面因子,规模调整后净资产收益率残差,https://factors.directory/zh/factors/basic-surface/roe-adjustment
+基础面因子,毛利增长率差,https://factors.directory/zh/factors/basic-surface/gross-margin-growth-minus-sales-revenue-growth
+基础面因子,经营性现金流市值比,https://factors.directory/zh/factors/basic-surface/cash-flow-to-market-value
+基础面因子,单季度摊薄净资产收益率同比变动,https://factors.directory/zh/factors/basic-surface/change-in-return-on-diluted-net-assets-for-a-single-quarter
+基础面因子,非操纵性应计利润比率,https://factors.directory/zh/factors/basic-surface/non-manipulative-accruals
+基础面因子,有形资本回报率,https://factors.directory/zh/factors/basic-surface/tangible-capital-return-rate
+基础面因子,盈利率,https://factors.directory/zh/factors/basic-surface/earning-yield
+基础面因子,综合公司治理质量评分,https://factors.directory/zh/factors/basic-surface/company-governance-factor
+基础面因子,单季度账面价值增长率,https://factors.directory/zh/factors/basic-surface/book-value-growth-rate-single-quarter
+基础面因子,滚动扣非净资产收益率,https://factors.directory/zh/factors/basic-surface/non-net-asset-return
+基础面因子,财务杠杆系数,https://factors.directory/zh/factors/basic-surface/equity-multiplier
+基础面因子,应计质量,https://factors.directory/zh/factors/basic-surface/surplus-quality
+基础面因子,盈余波动率因子 (Earnings Volatility Factor),https://factors.directory/zh/factors/basic-surface/earnings-predictability
+基础面因子,盈余持续性系数,https://factors.directory/zh/factors/basic-surface/earnings-persistence
+基础面因子,销售费用率 (Sales Expense Ratio),https://factors.directory/zh/factors/basic-surface/operating-expense-ratio
+基础面因子,资产市值比,https://factors.directory/zh/factors/basic-surface/market-capitalization-ratio-of-total-assets
+基础面因子,资本支出增长率-N年（CAGR-N）,https://factors.directory/zh/factors/basic-surface/capital-expenditure-growth-rate
+基础面因子,"每股经营性现金流 (Operating Cash Flow per Share, OCFPS)",https://factors.directory/zh/factors/basic-surface/operating-cash-flow-per-share
+基础面因子,流动资产周转率 (Current Asset Turnover Ratio),https://factors.directory/zh/factors/basic-surface/current-asset-turnover-ratio
+基础面因子,营运资本同比增速（YoY Working Capital Growth Rate）,https://factors.directory/zh/factors/basic-surface/yoy-growth-in-working-capital
+基础面因子,流动性缓冲比率,https://factors.directory/zh/factors/basic-surface/cash-ratio
+基础面因子,去杠杆经营性资产盈利收益率,https://factors.directory/zh/factors/basic-surface/profit-market-capitalization-ratio-after-deleveraging
+基础面因子,线性回归残差净利润,https://factors.directory/zh/factors/basic-surface/linear-purified-net-profit
+基础面因子,营收增长率-存货增长率差,https://factors.directory/zh/factors/basic-surface/sales-revenue-growth-minus-inventory-growth
+基础面因子,现金资产占比因子,https://factors.directory/zh/factors/basic-surface/cash-to-total-assets
+基础面因子,资产现金回报率,https://factors.directory/zh/factors/basic-surface/total-assets-cash-recovery-rate
+基础面因子,销售净利率 (Net Profit Margin),https://factors.directory/zh/factors/basic-surface/profit-margin
+基础面因子,运营成本-固定资产残差因子,https://factors.directory/zh/factors/basic-surface/production-capacity-utilization
+基础面因子,人均营收增长率（TTM）,https://factors.directory/zh/factors/basic-surface/labor-productivity
+基础面因子,权益乘数 (Book Equity Multiplier),https://factors.directory/zh/factors/basic-surface/book-leverage
+基础面因子,期末摊薄净资产收益率 (Trailing Twelve Months ROE - TTM ROE),https://factors.directory/zh/factors/basic-surface/roe-factor
+基础面因子,分析师一致预期净资产收益率,https://factors.directory/zh/factors/basic-surface/consensus-roe
+基础面因子,综合质量因子,https://factors.directory/zh/factors/basic-surface/quality-factor
+基础面因子,利息覆盖倍数 (Interest Coverage Ratio),https://factors.directory/zh/factors/basic-surface/interest-coverage-ratio
+基础面因子,股东户均持股比例,https://factors.directory/zh/factors/basic-surface/per-capita-shareholding-ratio
+基础面因子,存货同比增速,https://factors.directory/zh/factors/basic-surface/inventory-growth-rate
+基础面因子,"现金转换周期 (Cash Conversion Cycle, CCC)",https://factors.directory/zh/factors/basic-surface/cash-conversion-cycle
+基础面因子,有形净值负债率,https://factors.directory/zh/factors/basic-surface/tangible-net-debt-ratio
+基础面因子,预收款项偏离度（季度环比）,https://factors.directory/zh/factors/basic-surface/abnormal-advance-payment
+基础面因子,每股未分配利润 (Retained Earnings Per Share),https://factors.directory/zh/factors/basic-surface/unallocated-profit-per-share
+基础面因子,每股资本公积金,https://factors.directory/zh/factors/basic-surface/per-share-capital-reserve
+基础面因子,总资产周转率(TTM),https://factors.directory/zh/factors/basic-surface/total-asset-turnover
+基础面因子,企业价值/息税折旧摊销前利润比率,https://factors.directory/zh/factors/basic-surface/enterprise-value-multiple
+基础面因子,供应链议价能力及资金占用因子,https://factors.directory/zh/factors/basic-surface/supply-chain-position
+基础面因子,摊薄每股收益 (Diluted EPS),https://factors.directory/zh/factors/basic-surface/earnings-per-share
+基础面因子,近五年平均专利寿命月数,https://factors.directory/zh/factors/basic-surface/average-number-of-months-of-life
+基础面因子,应收账款周转率,https://factors.directory/zh/factors/basic-surface/receivable-turnover-rate
+基础面因子,去杠杆化账面价值/市值比,https://factors.directory/zh/factors/basic-surface/book-value-ratio-after-deleveraging
+基础面因子,标准化营业利润(TTM),https://factors.directory/zh/factors/basic-surface/standardized-operating-profit
+基础面因子,销售收入市值比率 (Sales-to-Market Capitalization Ratio),https://factors.directory/zh/factors/basic-surface/sales-to-market-cap
+基础面因子,标准化金融负债变动率,https://factors.directory/zh/factors/basic-surface/financial-liability-change
+基础面因子,企业上市时长因子,https://factors.directory/zh/factors/basic-surface/enterprise-age
+基础面因子,标准化异常财务变动率,https://factors.directory/zh/factors/basic-surface/abnormal-financial-factor
+基础面因子,应计盈余比率（经标准化）,https://factors.directory/zh/factors/basic-surface/total-accrued-surplus
+基础面因子,修正琼斯模型操纵性应计盈余,https://factors.directory/zh/factors/basic-surface/accruals
+基础面因子,去杠杆化企业价值/销售收入比,https://factors.directory/zh/factors/basic-surface/market-value-ratio-of-sales-revenue-after-deleveraging
+基础面因子,单季度净利润率同比增速,https://factors.directory/zh/factors/basic-surface/single-season-net-profit-growth-rate
+基础面因子,每股货币资金,https://factors.directory/zh/factors/basic-surface/monetary-funds-per-share
+基础面因子,非流动性经营资产变动率,https://factors.directory/zh/factors/basic-surface/non-current-operating-assets-change
+基础面因子,单季度投入资本回报率 (QoQ ROIC),https://factors.directory/zh/factors/basic-surface/basic-surface-return-on-invested-capital
+基础面因子,滚动市净率收益率,https://factors.directory/zh/factors/basic-surface/net-asset-yield
+基础面因子,债务市值比率,https://factors.directory/zh/factors/basic-surface/debt-to-market-ratio
+基础面因子,综合财务质量因子,https://factors.directory/zh/factors/basic-surface/financial-quality-factor
+基础面因子,流通股股权集中度 (Top3),https://factors.directory/zh/factors/basic-surface/equity-concentration-circulation
+基础面因子,季度总资产环比增长率,https://factors.directory/zh/factors/basic-surface/asset-growth-single-quarter
+基础面因子,母公司股东权益环比增长率,https://factors.directory/zh/factors/basic-surface/growth-rate-of-shareholders-equity-attributable-to-the-parent-company
+基础面因子,总资产毛利率 (TTM),https://factors.directory/zh/factors/basic-surface/gross-margin-on-total-assets
+基础面因子,息税前利润/企业价值 (EBIT/EV),https://factors.directory/zh/factors/basic-surface/ebit-enterprise-value
+基础面因子,毛利净利比,https://factors.directory/zh/factors/basic-surface/gross-profit-to-net-profit-ratio
+基础面因子,总资产报酬率 (ROA),https://factors.directory/zh/factors/basic-surface/total-asset-net-profit-margin
+基础面因子,单季度营业成本率,https://factors.directory/zh/factors/basic-surface/single-quarter-cost-rate
+基础面因子,应计盈余比率 (Accruals Ratio),https://factors.directory/zh/factors/basic-surface/accruals-ratio
+基础面因子,杠杆比率(Debt-to-Equity Ratio),https://factors.directory/zh/factors/basic-surface/debt-to-equity-ratio
+基础面因子,投入资本回报率(ROIC),https://factors.directory/zh/factors/basic-surface/return-on-invested-capital
+基础面因子,单季度毛利率同比变化率,https://factors.directory/zh/factors/basic-surface/single-quarter-gross-profit-margin-yoy
+基础面因子,基本面趋势预期收益率,https://factors.directory/zh/factors/basic-surface/fundamentals-implied-benefits
+动量因子,排序动量因子,https://factors.directory/zh/factors/momentum/momentum-based-on-ranking
+动量因子,客户加权动量因子,https://factors.directory/zh/factors/momentum/momentum-customer-momentum
+动量因子,最小收益率 (MinReturn),https://factors.directory/zh/factors/momentum/minimum-yield
+动量因子,短期反转收益因子,https://factors.directory/zh/factors/momentum/short-term-reversal
+动量因子,行业日内隔夜动量因子,https://factors.directory/zh/factors/momentum/industry-momentum
+动量因子,52周最高价逼近度,https://factors.directory/zh/factors/momentum/52-week-high
+动量因子,月度超额收益季节性反转因子,https://factors.directory/zh/factors/momentum/seasonal-return-reversal
+动量因子,动量加速度因子,https://factors.directory/zh/factors/momentum/momentum-acceleration
+动量因子,时间序列动量 (TSMOM),https://factors.directory/zh/factors/momentum/time-series-momentum
+动量因子,过去K个月累计收益率动量因子,https://factors.directory/zh/factors/momentum/momentum
+波动率因子,条件风险价值 (CVaR),https://factors.directory/zh/factors/volatility/conditional-value-at-risk
+波动率因子,历史波动率（Total Volatility）,https://factors.directory/zh/factors/volatility/total-volatility
+波动率因子,非流动性变异系数,https://factors.directory/zh/factors/volatility/illiquidity-coefficient-of-variation
+波动率因子,成交额波动率,https://factors.directory/zh/factors/volatility/trading-volume-fluctuation
+波动率因子,换手率波动率系数,https://factors.directory/zh/factors/volatility/turnover-rate-variation
+波动率因子,Frazzini-Pedersen 调整贝塔,https://factors.directory/zh/factors/volatility/frazzini-pedersen-beta
+波动率因子,系统性风险暴露 (Market Beta),https://factors.directory/zh/factors/volatility/market-beta
+波动率因子,下行/上行波动率比率,https://factors.directory/zh/factors/volatility/up-down-volatility-ratio
+波动率因子,换手率波动率,https://factors.directory/zh/factors/volatility/turnover-volatility
+波动率因子,月度加权特质波动率,https://factors.directory/zh/factors/volatility/monthly-idiosyncratic-volatility
+波动率因子,价格分位差振幅因子,https://factors.directory/zh/factors/volatility/ideal-amplitude-factor
+波动率因子,风险价值 (Value at Risk - VaR),https://factors.directory/zh/factors/volatility/value-at-risk
+波动率因子,个股特质波动率,https://factors.directory/zh/factors/volatility/idiosyncratic-volatility
+流动性因子,市值中性化换手率残差,https://factors.directory/zh/factors/liquidity/market-cap-adjusted-turnover
+流动性因子,股票换手率 (Turnover Rate),https://factors.directory/zh/factors/liquidity/stock-turnover-rate
+流动性因子,平均月度成交额,https://factors.directory/zh/factors/liquidity/trading-volume
+流动性因子,高频波动率路径长度加权非流动性因子,https://factors.directory/zh/factors/liquidity/illiquidity
+流动性因子,条件流动性冲击因子,https://factors.directory/zh/factors/liquidity/conditional-liquidity-shock
+流动性因子,Amihud 非流动性指标,https://factors.directory/zh/factors/liquidity/amihud-illiquidity
+流动性因子,流动性调整成交量零值天数比率,https://factors.directory/zh/factors/liquidity/liquidity-adjusted-volume
+流动性因子,月均换手率因子,https://factors.directory/zh/factors/liquidity/monthly-turnover-rate
+成长因子,每股净资产同比增速,https://factors.directory/zh/factors/growth/yoy-growth-rate-of-net-assets-per-share
+成长因子,研发强度比率,https://factors.directory/zh/factors/growth/research-expense-ratio
+成长因子,稀释每股收益同比增长率 (TTM),https://factors.directory/zh/factors/growth/diluted-eps-yoy-growth-rate
+成长因子,季度异常毛利润率,https://factors.directory/zh/factors/growth/abnormal-gross-profit
+成长因子,创新研发强度及产出综合因子,https://factors.directory/zh/factors/growth/innovation-capacity-factor
+成长因子,市盈率相对盈利增长率,https://factors.directory/zh/factors/growth/p-e-growth
+成长因子,质量增长动量因子,https://factors.directory/zh/factors/growth/quality-growth
+成长因子,单季度净利润同比增速,https://factors.directory/zh/factors/growth/single-quarter-net-profit-yoy
+成长因子,60日盈利市值比率变动,https://factors.directory/zh/factors/growth/profit-market-cap-ratio-60d
+成长因子,单季度总资产净利率同比变动,https://factors.directory/zh/factors/growth/changes-in-the-net-profit-margin-of-total-assets-in-a-single-quarter
+成长因子,预期市盈率调整幅度,https://factors.directory/zh/factors/growth/pe-adjustment
+成长因子,季度同比销售收入增长率,https://factors.directory/zh/factors/growth/quarter-over-quarter-sales-revenue-growth
+成长因子,一致预期PEG比率,https://factors.directory/zh/factors/growth/consistent-peg
+成长因子,市盈率增长率-股息收益率比率 (PEG-DY Ratio),https://factors.directory/zh/factors/growth/pe-growth-rate-dividend-yield
+成长因子,有形资本回报率环比增长率 (TTM),https://factors.directory/zh/factors/growth/return-on-tangible-capital-rotc-mom-growth-rate
+成长因子,年度员工总数增长率,https://factors.directory/zh/factors/growth/employee-growth-rate
+质量因子,"每股留存收益(Retained Earnings per Share, REPS)",https://factors.directory/zh/factors/quality/quality-retained-earnings-per-share
+质量因子,应计盈余比率（总额）,https://factors.directory/zh/factors/quality/quality-total-accrued-surplus
+质量因子,杠杆比率 - 负债权益比,https://factors.directory/zh/factors/quality/quality-debt-to-equity-ratio
+质量因子,投入资本回报率环比变动,https://factors.directory/zh/factors/quality/quality-return-on-invested-capital
+质量因子,股东盈余市值比率,https://factors.directory/zh/factors/quality/shareholder-earnings-to-market-cap
+质量因子,季度投入资本回报率 (Quarterly ROIC),https://factors.directory/zh/factors/quality/single-return-on-invested-capital
+价值因子,每股留存收益,https://factors.directory/zh/factors/value/value-retained-earnings-per-share
+价值因子,去杠杆化经营现金流/经营性净资产市值,https://factors.directory/zh/factors/value/value-cash-flow-to-market-value
+价值因子,账面市值比 (Book-to-Market Ratio),https://factors.directory/zh/factors/value/book-to-market-ratio
+价值因子,股息收益率,https://factors.directory/zh/factors/value/dividend-rate
+价值因子,流通市值对数因子,https://factors.directory/zh/factors/value/market-cap
+价值因子,市值非线性偏离因子,https://factors.directory/zh/factors/value/non-linear-market-value
+规模因子,对数自由流通市值,https://factors.directory/zh/factors/scale/scale-log-market-cap
+规模因子,自由流通市值,https://factors.directory/zh/factors/scale/free-float-market-cap
+规模因子,对数市值规模,https://factors.directory/zh/factors/scale/log-market-cap
