@@ -15,14 +15,15 @@ options = Options()
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
-for HTML_PATH in glob.glob(os.path.join(r"D:\UGit\factors_store\html_pages", "*.html")):
+driver = webdriver.Chrome(
+    service=Service(CHROMEDRIVER_PATH),
+    options=options
+)
 
-    driver = webdriver.Chrome(
-        service=Service(CHROMEDRIVER_PATH),
-        options=options
-    )
 
-    try:
+
+try:
+    for HTML_PATH in glob.glob(os.path.join(r"D:\UGit\factors_store\html_pages", "*.html")):
         file_url = "file:///" + os.path.abspath(HTML_PATH).replace("\\", "/")
         driver.get(file_url)
 
@@ -64,5 +65,5 @@ for HTML_PATH in glob.glob(os.path.join(r"D:\UGit\factors_store\html_pages", "*.
 
         print("保存完成:", os.path.join(OUT_HTML_ROOT,os.path.basename(HTML_PATH)))
 
-    finally:
-        driver.quit()
+finally:
+    driver.quit()
